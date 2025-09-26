@@ -1,1 +1,1 @@
-# Sct_ML_3
+# Skill Craft Technology Task 1 Support vector machine
